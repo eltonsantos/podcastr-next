@@ -72,7 +72,7 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 
 ---
 
-## 👨🏻‍💻 Autor
+## 👨🏻‍💻 Author
 
 <h3 align="center">
   <img style="border-radius: 50%" src="https://avatars3.githubusercontent.com/u/1292594?s=460&u=0b1bfb0fc81256c59dc33f31ce344231bd5a5286&v=4" width="100px;" alt=""/>
@@ -91,6 +91,6 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 
 <br/>
 
-Feito com ❤️ por Elton Santos 👋🏽 [Entre em contato!](https://www.linkedin.com/in/eltonmelosantos/)
+Made with ❤️ by Elton Santos 👋🏽 [Entre em contato!](https://www.linkedin.com/in/eltonmelosantos/)
 
 </h3>
