@@ -2,7 +2,7 @@ import { format, parseISO } from 'date-fns';
 import ptBR from 'date-fns/locale/pt-BR';
 import { GetStaticPaths, GetStaticProps } from 'next';
 import Image from 'next/image';
-import Header from 'next/head';
+import Head from 'next/head';
 import Link from 'next/link';
 import { usePlayer } from '../../contexts/PlayerContext';
 import { api } from '../../services/api';
