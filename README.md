@@ -6,13 +6,15 @@
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>
-</p>
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-próximos-passos">Próximos passos</a>
 
 <br>
 
 <h1 align="center">
-    <img alt="Podcastr" title="Podcastr" src=".github/podcastr.svg" />
+    <a href="https://podcastr-eltonsantos.vercel.app" target="_blank">
+      <img alt="Podcastr" title="Podcastr" src=".github/podcastr.svg" />
+    </a>
 </h1>
 
 ---
@@ -60,6 +62,13 @@ You can view the project layout through the links below:
 
 Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
+## 🐾 Próximos passos
+
+- [ ] Modo dark mode para os olhos agradecerem 😎
+- [ ] Colocar o layout responsivo para que possa ser visto no celular 🥰
+- [ ] Desenvolver PWA para que os podcasts possam ser ouvidos offline 🤩
+- [ ] Desenvolver com Electron para poder ouvir os podcasts em Desktop 🐱‍💻
+- [ ] E muito mais... ❤💪🏼
 
 ---
 
